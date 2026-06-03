@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-groq
+sentence-transformers
+numpy
+streamlit
+python-dotenv
+tiktoken
