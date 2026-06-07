@@ -1,9 +1,9 @@
 # 🧠 SemaGC: Semantic Garbage Collection for Context Management in Multi-Agent LLM Pipelines
-📄 Paper: https://doi.org/10.5281/zenodo.20546372
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![LangGraph](https://img.shields.io/badge/framework-LangGraph-orange.svg)](https://github.com/langchain-ai/langgraph)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Framework](https://img.shields.io/badge/framework-LangGraph-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20546372-blue)](https://doi.org/10.5281/zenodo.20546372)
 
 An automated, inline context management runtime that dynamically prunes and compresses state arrays in multi-agent LLM graphs. By treating long-context window bloat as a memory leak, SemaGC reduces state token size by 42.9% while preserving task completion quality across evaluated benchmarks.
 
