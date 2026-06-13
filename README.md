@@ -1,7 +1,7 @@
 # 🧠 SemaGC: Semantic Garbage Collection for Context Management in Multi-Agent LLM Pipelines
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Framework](https://img.shields.io/badge/framework-LangGraph-orange)
+[![Framework](https://img.shields.io/badge/framework-LangGraph-orange)](https://www.langchain.com/langgraph)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20546372-blue)](https://doi.org/10.5281/zenodo.20546372)
 
